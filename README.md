@@ -28,7 +28,6 @@ Sou um profissional com **mais de 16 anos de experiência** em empresas nacionai
 ### 🌱 O que estou explorando/aprendendo agora:
 
 * **Aprimoramento contínuo** em **Java**, **JavaScript**, **Node.js**, **React**, **Spring Boot** e **Microserviços**.
-Node
 ---
 
 ### 📫 Como me encontrar:
