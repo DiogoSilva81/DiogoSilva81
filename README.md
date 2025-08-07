@@ -1,4 +1,4 @@
-# Olá, sou o Diogo Silva! 👋
+# Olá, sou o Diogo Silva! 👋 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4d7bbf6b-806e-46e6-9358-1e543cfeebc0" />
 
 ### Product Owner | Analista de Sistemas | Analista de Negócios | Engenheiro de Requisitos
 
